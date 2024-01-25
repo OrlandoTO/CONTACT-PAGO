@@ -28,12 +28,12 @@ main h1 {
 main p {
     font-size: calc(1.2rem + 1vw);
     text-align: center;
-    margin: 0 calc(15rem + 1vw) calc(2.325rem + 1vw) calc(15rem + 1vw);
+    margin: 0 calc(15rem + 1vw) calc(4rem + 1vw) calc(15rem + 1vw);
 }
 
 form {
     padding: calc(1.3188rem + 1vw);
-    margin: 10px calc(12rem + 1vw);
+    margin: 0 calc(12rem + 1vw);
     background-color: #f8fafc1f;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
