@@ -9,7 +9,7 @@ body {
     background-image: url('./img/bg-image.svg');
     background-size: cover;
     font-family: 'Be Vietnam Pro', sans-serif;
-    margin: calc(0.45rem + 1vw) calc(1.7rem + 1vw) calc(1.7rem + 1vw) calc(1.7rem + 1vw);
+    margin: calc(0.45rem + 1vw) calc(3rem + 1vw) calc(1.7rem + 1vw) calc(3rem + 1vw);
 }
 
 
@@ -33,7 +33,7 @@ main p {
 
 form {
     padding: calc(1.3188rem + 1vw);
-    margin: 30px calc(12rem + 1vw);
+    margin: 10px calc(12rem + 1vw);
     background-color: #f8fafc1f;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
