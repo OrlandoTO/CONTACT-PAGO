@@ -9,10 +9,7 @@ body {
     background-image: url('./img/bg-image.svg');
     background-size: cover;
     font-family: 'Be Vietnam Pro', sans-serif;
-    /* margin: 1.25rem 2.5rem 2.5rem 2.5rem; */
     margin: calc(0.45rem + 1vw) calc(1.7rem + 1vw) calc(1.7rem + 1vw) calc(1.7rem + 1vw);
-
-
 }
 
 
@@ -20,23 +17,18 @@ main {
     display: flex;
     flex-direction: column;
     color: #ffffff;
-    /* align-items: center; */
-    /* justify-content: center; */
 }
 
 main h1 {
     font-size: calc(3.2em + 1vw);
     text-align: center;
-    margin: calc(1.075rem + 1vw) calc(11.7rem + 1vw);
+    margin: calc(1.075rem + 1vw) calc(14.7rem + 1vw);
 }
 
 main p {
     font-size: calc(1.2rem + 1vw);
-    /* border:1px solid red; */
     text-align: center;
-    margin: 0 calc(14.825rem + 1vw) calc(2.325rem + 1vw) calc(14.825rem + 1vw);
-    /* margin: 1.5625rem 14rem 1.5625rem 14rem; */
-
+    margin: 0 calc(15rem + 1vw) calc(2.325rem + 1vw) calc(15rem + 1vw);
 }
 
 form {
@@ -45,7 +37,6 @@ form {
     background-color: #f8fafc1f;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    /* gap: calc(2.2+ 1vw); */
     gap: 15px;
     border-radius: 15px;
 }
