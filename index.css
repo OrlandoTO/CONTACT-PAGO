@@ -32,13 +32,13 @@ main p {
 }
 
 form {
-    padding: calc(21.1px + 1vw);
-    margin: 0 calc(187.2px + 1vw);
+    padding: calc(1.3188rem + 1vw);
+    margin: 30px calc(12rem + 1vw);
     background-color: #f8fafc1f;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 .input-text,
@@ -75,7 +75,7 @@ textarea,
 button[type="submit"] {
     width: 100%;
     border: none;
-    padding: 1.25rem;
+    padding: 25px;
     border-radius: 0.9375rem;
     color: #111729;
     font-weight: bold;
